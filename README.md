@@ -8,7 +8,7 @@ numero
 ### Código 2
 num =""
 n = int(input("dame un numero entero positivo: "))
-if n%2 == 0:
+-if n%2 == 0:
     num = "par"
 else:
     num = "impar"
